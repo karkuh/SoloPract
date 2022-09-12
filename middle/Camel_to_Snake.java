@@ -1,5 +1,6 @@
 package middle;
 
+
 //author: @karkuh
 //The company you are working for is refactoring its entire codebase.
 // It's changing all naming conventions from camel to snake case (camelCasing to snake_casing).

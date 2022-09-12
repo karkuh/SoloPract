@@ -1,5 +1,6 @@
 package middle;
 
+
 //author: @karkuh
 //You are shopping at a store that is having a special where you do not have to pay the tax on anything that costs 20
 // dollars or more!

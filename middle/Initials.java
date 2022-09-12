@@ -1,5 +1,6 @@
 package middle;
 
+
 //author: @karkuh
 //You are given a list of names for a fundraiser, but you need to keep the names relatively anonymous.
 // You are tasked with getting the initials for each name provided.

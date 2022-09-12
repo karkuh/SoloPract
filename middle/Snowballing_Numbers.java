@@ -1,5 +1,6 @@
 package middle;
 
+
 //author: @karkuh
 //You are given a list of numbers in a particular order.
 // You need to check to see if each number is greater than the sum of all the previous number of the list.

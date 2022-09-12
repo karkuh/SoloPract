@@ -1,5 +1,6 @@
 package middle;
 
+
 //author: @karkuh
 //You need to calculate exactly how many days have passed between two dates.
 //

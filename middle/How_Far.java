@@ -1,5 +1,6 @@
 package middle;
 
+
 //author: @karkuh
 //You are walking from your house to a pond that is down your street.
 //        How many blocks over will you have to walk until you get to the pond?

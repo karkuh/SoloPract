@@ -1,5 +1,6 @@
 package middle;
 
+
 //author: @karkuh
 //You have six bowls of Rice Krispies in front of you, and they make different noises when you pour milk over them
 // based on the total number of Rice Krispies in each bowl.

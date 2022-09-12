@@ -1,5 +1,6 @@
 package middle;
 
+
 //author: @karkuh
 //Your favorite store is having a sale! You pay full price for the most expensive item that you get,
 // but then you get 30% off of everything else in your purchase! How much are you going to save?

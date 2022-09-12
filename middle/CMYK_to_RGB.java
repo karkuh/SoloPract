@@ -1,5 +1,6 @@
 package middle;
 
+
 //author: @karkuh
 //The CMYK color model is the standard in the printing industry and refers to the primary colors of pigment:
 // Cyan, Magenta, Yellow, and Black.

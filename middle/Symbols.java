@@ -1,5 +1,6 @@
 package middle;
 
+
 //author: @karkuh
 //There is a problem with your keyboard: it randomly writes symbols when you are typing a text.
 // You need to clean up the text by removing all symbols.

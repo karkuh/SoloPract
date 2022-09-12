@@ -1,5 +1,6 @@
 package middle;
 
+
 //author: @karkuh
 //You are robbing a bank, but you’re not taking everything.
 //You are looking for a specific item in the safety deposit boxes and you are going to drill into each one

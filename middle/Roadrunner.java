@@ -1,5 +1,6 @@
 package middle;
 
+
 //author: @karkuh
 //A coyote is chasing a roadrunner and they start out 50 feet apart. If you know how fast they are both traveling,
 // and how far the roadrunner is from safety, determine whether or not the coyote is able to catch the roadrunner.

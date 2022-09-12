@@ -1,5 +1,6 @@
 package middle;
 
+
 //author: @karkuh
 //You need to decompress text. The compressed version has a number next to each symbol/letter,
 // representing the amount of time that symbol should appear.

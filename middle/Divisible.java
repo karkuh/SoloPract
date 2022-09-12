@@ -1,5 +1,6 @@
 package middle;
 
+
 //author: @karkuh
 //You need to know if a number is divisible by each of a group of other numbers.
 // If you are given the number and the group of other numbers, you will test to make sure that it is divisible

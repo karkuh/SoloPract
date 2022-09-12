@@ -1,5 +1,6 @@
 package middle;
 
+
 //author: @karkuh
 //You receive a date and need to know what day of the week it is.
 //

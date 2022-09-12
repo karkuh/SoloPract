@@ -1,5 +1,6 @@
 package middle;
 
+
 //author: @karkuh
 //You and your friends are going to Europe! You have made plans to travel around Europe with your friends,
 // but one thing you need to take into account so that everything goes according to play,
