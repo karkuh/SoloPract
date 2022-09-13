@@ -2,6 +2,7 @@ package easy;
 
 
 //author:karkuh
+//
 import java.util.Scanner;
 
 public class A_Snail_In_A_Well {
