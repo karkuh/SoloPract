@@ -2,7 +2,7 @@ package easy;
 
 
 //author:karkuh
-//
+
 import java.util.Scanner;
 
 public class A_Snail_In_A_Well {
@@ -16,7 +16,7 @@ public class A_Snail_In_A_Well {
             current_weight += 7;
             day++;
             if (current_weight >= weight) {
-                // bool = false;
+
                 break;
             }
             current_weight -= 2;
