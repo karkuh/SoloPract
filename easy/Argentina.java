@@ -18,6 +18,7 @@ package easy;
 //        Sample Output
 //        Pesos
 
+
 import java.util.Scanner;
 
 public class Argentina {
